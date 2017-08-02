@@ -1,0 +1,11 @@
+<config>
+    <mysql>
+        <host>127.0.0.1</host>
+        <user>root</user>
+        <passwd>as2d2p</passwd>
+    </mysql>
+    <others>
+        <dir>/opt/lampp/htdocs/CRM_Call_Tagging/</dir>
+        <imagelink>http://139.59.231.125/CRM_Call_Tagging/</imagelink>
+    </others>
+</config>
